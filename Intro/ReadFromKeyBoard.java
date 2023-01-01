@@ -5,7 +5,7 @@ public class ReadFromKeyBoard {
     {
         Scanner sc = new Scanner(System.in);
 
-        float x = sc.nextFloat();
+        String x = sc.nextLine();
 
         System.out.println(x);
     }
