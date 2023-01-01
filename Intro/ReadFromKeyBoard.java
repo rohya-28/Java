@@ -5,8 +5,16 @@ public class ReadFromKeyBoard {
     {
         Scanner sc = new Scanner(System.in);
 
-        String x = sc.nextLine();
+        int x,y;
 
-        System.out.println(x);
+        System.out.println("Enter a Two Numbers");
+
+        x = sc.nextInt();
+        y = sc.nextInt();
+
+        int c = x + y;
+
+        System.out.println("Here Is Sum Of Two Number");
+        System.out.println(c);
     }
 }
