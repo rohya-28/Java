@@ -14,7 +14,6 @@ public class ReadFromKeyBoard {
 
         int c = x + y;
 
-        System.out.println("Here Is Sum Of Two Number");
         System.out.println(c);
     }
 }
