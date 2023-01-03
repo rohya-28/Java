@@ -1,0 +1,51 @@
+Operators and Expression
+
+int x=5;
+
+++x; 
+x++; 
+
+// In Pre Increment First value is Increment Than Initialize
+// In Post Increment First Initialize Than Value incremented
+
+/*-----------------------------*/
+
+int x=5,y;
+y=x++;
+
+// Here First X is Initialize Than Incremented
+
+/*-----------------------------*/
+
+int x=5,y;
+y=++x;
+
+// Here First X is Incremented And Than Initialize
+
+/*-----------------------------*/
+
+float x=5.3;
+
+y=x++;
+
+// This is 6.3
+
+/*-----------------------------*/
+
+byte x=5;
+
+y=x++;
+
+//This will be 6 Byte
+
+/*-----------------------------*/
+
+char x='A';
+
+y=x++;
+
+//This will be B
+
+/*-----------------------------*/
+
+

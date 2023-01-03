@@ -13,7 +13,7 @@ public class Cuboid {
         length = input.nextInt();
         base = input.nextInt();
 
-        area=(length*base)+(base*height)+(length*height);
+        area=2*((length*base)+(base*height)+(length*height));
         volume=length*base*height;
 
 
