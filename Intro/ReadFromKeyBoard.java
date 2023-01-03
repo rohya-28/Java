@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class ReadFromKeyBoard {
     public static void main(String args[])
     {
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
         int x,y;
 
         System.out.println("Enter a Two Numbers");
 
-        x = sc.nextInt();
-        y = sc.nextInt();
+        x = input.nextInt();
+        y = input.nextInt();
 
         int c = x + y;
 
