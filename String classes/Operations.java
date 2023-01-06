@@ -63,6 +63,9 @@ public class Operations {
         int val2 = str.compareTo(Str3);
         System.out.println(val2);
 
+        //String contains
+        System.out.println(Str.contains("A"));
+
 
 
     }
