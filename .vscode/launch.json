@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NinWords",
+            "request": "launch",
+            "mainClass": "NinWords",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AOT2",
+            "request": "launch",
+            "mainClass": "AOT2",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arithmetic",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cuboid",
+            "request": "launch",
+            "mainClass": "Cuboid",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataSizeRange",
+            "request": "launch",
+            "mainClass": "DataTypes.DataSizeRange",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataTypeDetails",
+            "request": "launch",
+            "mainClass": "DataTypes.DataTypeDetails",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Digits",
+            "request": "launch",
+            "mainClass": "Digits",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Domain",
+            "request": "launch",
+            "mainClass": "Domain",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "Multiplication",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyProgram",
+            "request": "launch",
+            "mainClass": "MyProgram",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operations",
+            "request": "launch",
+            "mainClass": "Operations",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadFromKeyBoard",
+            "request": "launch",
+            "mainClass": "ReadFromKeyBoard",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitWiseDemo",
+            "request": "launch",
+            "mainClass": "bitWiseDemo",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch1",
+            "request": "launch",
+            "mainClass": "switch1",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch tro",
+            "request": "launch",
+            "mainClass": "tro",
+            "projectName": "Java Programs_daf2b749"
+        }
+    ]
+}
