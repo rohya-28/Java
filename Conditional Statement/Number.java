@@ -9,9 +9,9 @@ public class Number {
 
     System.out.println("Enter The Number");
     
-    Scanner input = new Scanner(System.in);
-
-    x=input.nextInt();
+    try (Scanner input = new Scanner(System.in)) {
+      x=input.nextInt();
+    }
 
     if (x%2==0) {
       System.out.println("The Number is Even");

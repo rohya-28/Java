@@ -6,9 +6,9 @@ public class switch1 {
 
         int number;
 
-        Scanner input = new Scanner(System.in);
-
-        number = input.nextInt();
+        try (Scanner input = new Scanner(System.in)) {
+            number = input.nextInt();
+        }
 
         switch (number) {
             case 1:

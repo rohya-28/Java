@@ -6,9 +6,9 @@ public class Age {
 
         System.out.println("Enter Your Age");
 
-        Scanner input = new Scanner(System.in);
-
-        Age=input.nextInt();
+        try (Scanner input = new Scanner(System.in)) {
+            Age=input.nextInt();
+        }
 
         if (Age >= 14 && Age <=55) {
             System.out.println("You are Young");

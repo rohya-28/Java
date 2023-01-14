@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Diam2",
+            "request": "launch",
+            "mainClass": "Diam2",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example8",
+            "request": "launch",
+            "mainClass": "example8",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example7",
+            "request": "launch",
+            "mainClass": "example7",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example6",
+            "request": "launch",
+            "mainClass": "example6",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example5",
+            "request": "launch",
+            "mainClass": "example5",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example4",
+            "request": "launch",
+            "mainClass": "example4",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example3",
+            "request": "launch",
+            "mainClass": "example3",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example2",
+            "request": "launch",
+            "mainClass": "example2",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraypractice",
+            "request": "launch",
+            "mainClass": "arraypractice",
+            "projectName": "Java Programs_daf2b749"
+        },
+        {
+            "type": "java",
             "name": "Launch NinWords",
             "request": "launch",
             "mainClass": "NinWords",
